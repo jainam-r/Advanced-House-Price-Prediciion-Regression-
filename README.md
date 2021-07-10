@@ -1,4 +1,4 @@
-# Advanced-House-Price-Prediciion-Regression-
+# Advanced-House-Price-Prediction-Regression-
 
 SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.  
 MSSubClass: The building class  
